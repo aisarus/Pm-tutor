@@ -1,0 +1,22 @@
+{
+  "extraKnownMarketplaces": {
+    "kirilxd-plugins": {
+      "source": { "source": "github", "repo": "kirilxd/claude-tutor" }
+    }
+  },
+  "enabledPlugins": {
+    "claude-tutor@kirilxd-plugins": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "mkdir -p ~/.claude && { [ -e ~/.claude/learning ] || ln -s \"$CLAUDE_PROJECT_DIR/learning\" ~/.claude/learning; }"
+          }
+        ]
+      }
+    ]
+  }
+}
