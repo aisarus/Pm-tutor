@@ -1,0 +1,118 @@
+{
+  "topic": "66-4109 דיני עסקים — Бизнес-право",
+  "slug": "business-law-66-4109",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Основы права и правовая система Израиля",
+      "objectives": [
+        "Различать источники права и ветви суда"
+      ],
+      "keyConcepts": [
+        "источники права (מקורות המשפט)",
+        "прецедент (תקדים)",
+        "система судов Израиля"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Business Law I Essentials (право США — только общие понятия; израильские законы отличаются)",
+          "url": "https://openstax.org/details/books/business-law-i-essentials",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Договорное право: заключение договора",
+      "objectives": [
+        "Разбирать предложение и акцепт"
+      ],
+      "keyConcepts": [
+        "оферта (הצעה)",
+        "акцепт (קיבול)",
+        "חוק החוזים (חלק כללי), התשל\"ג-1973"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Business Law I Essentials (право США — только общие понятия; израильские законы отличаются)",
+          "url": "https://openstax.org/details/books/business-law-i-essentials",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Договорное право: пороки и нарушение",
+      "objectives": [
+        "Различать ошибку, обман и принуждение",
+        "Знать средства защиты при нарушении"
+      ],
+      "keyConcepts": [
+        "ошибка и обман (טעות והטעיה)",
+        "нарушение договора (הפרת חוזה)",
+        "средства защиты: исполнение, расторжение, компенсация"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Business Law I Essentials (право США — только общие понятия; израильские законы отличаются)",
+          "url": "https://openstax.org/details/books/business-law-i-essentials",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Формы ведения бизнеса и корпоративное право",
+      "objectives": [
+        "Сравнить עוסק מורשה, партнёрство и компанию"
+      ],
+      "keyConcepts": [
+        "компания (חברה בע\"מ)",
+        "ограниченная ответственность (אחריות מוגבלת)",
+        "חוק החברות, התשנ\"ט-1999"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Business Law I Essentials (право США — только общие понятия; израильские законы отличаются)",
+          "url": "https://openstax.org/details/books/business-law-i-essentials",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Деликты и ответственность бизнеса",
+      "objectives": [
+        "Объяснить небрежность и ответственность работодателя"
+      ],
+      "keyConcepts": [
+        "небрежность (רשלנות)",
+        "פקודת הנזיקין",
+        "ответственность за действия работника"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Business Law I Essentials (право США — только общие понятия; израильские законы отличаются)",
+          "url": "https://openstax.org/details/books/business-law-i-essentials",
+          "type": "book",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "15 часов"
+}

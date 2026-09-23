@@ -1,0 +1,212 @@
+{
+  "topic": "66-4102 מתמטיקה א׳ — Математика A",
+  "slug": "math-a-66-4102",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Функции и их графики",
+      "objectives": [
+        "Читать и строить графики основных функций"
+      ],
+      "keyConcepts": [
+        "функция (פונקציה)",
+        "область определения (תחום הגדרה)",
+        "линейная, квадратичная, степенная функции"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Экспонента и логарифм",
+      "objectives": [
+        "Решать экспоненциальные и логарифмические уравнения",
+        "Считать сложные проценты"
+      ],
+      "keyConcepts": [
+        "экспонента (פונקציה מעריכית)",
+        "логарифм (לוגריתם)",
+        "сложный процент (ריבית דריבית)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Пределы и непрерывность",
+      "objectives": [
+        "Вычислять простые пределы"
+      ],
+      "keyConcepts": [
+        "предел (גבול)",
+        "непрерывность (רציפות)",
+        "асимптоты"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Производная и правила дифференцирования",
+      "objectives": [
+        "Понимать производную как скорость изменения",
+        "Применять правила произведения, частного и цепочки"
+      ],
+      "keyConcepts": [
+        "производная (נגזרת)",
+        "правило цепочки (כלל השרשרת)",
+        "касательная (משיק)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Исследование функции и оптимизация",
+      "objectives": [
+        "Находить экстремумы",
+        "Решать экономические задачи на максимум и минимум"
+      ],
+      "keyConcepts": [
+        "экстремум (נקודת קיצון)",
+        "возрастание и убывание (עלייה וירידה)",
+        "предельные величины в экономике"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Введение в интеграл",
+      "objectives": [
+        "Понимать интеграл как площадь и первообразную"
+      ],
+      "keyConcepts": [
+        "первообразная (פונקציה קדומה)",
+        "определённый интеграл (אינטגרל מסוים)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Calculus Volume 1",
+          "url": "https://openstax.org/details/books/calculus-volume-1",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Calculus 1",
+          "url": "https://www.khanacademy.org/math/calculus-1",
+          "type": "course",
+          "free": true
+        },
+        {
+          "title": "3Blue1Brown — Essence of Calculus",
+          "url": "https://www.3blue1brown.com/topics/calculus",
+          "type": "video",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "18 часов"
+}

@@ -1,0 +1,176 @@
+{
+  "topic": "66-4107 ניהול מערכות מידע — Управление информационными системами",
+  "slug": "mis-66-4107",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Что такое информационная система",
+      "objectives": [
+        "Различать данные, информацию и знание",
+        "Назвать компоненты ИС"
+      ],
+      "keyConcepts": [
+        "данные vs информация (נתונים ומידע)",
+        "компоненты ИС: железо, софт, данные, люди, процессы"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ИС и стратегия бизнеса",
+      "objectives": [
+        "Объяснить, как ИС дают конкурентное преимущество"
+      ],
+      "keyConcepts": [
+        "конкурентное преимущество (יתרון תחרותי)",
+        "пять сил Портера",
+        "цепочка ценности (שרשרת ערך)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Базы данных и основы SQL",
+      "objectives": [
+        "Понимать реляционную модель",
+        "Писать простые SELECT-запросы"
+      ],
+      "keyConcepts": [
+        "реляционная база данных (מסד נתונים)",
+        "первичный ключ (מפתח ראשי)",
+        "SELECT / WHERE / JOIN"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Корпоративные системы",
+      "objectives": [
+        "Отличать ERP, CRM и SCM"
+      ],
+      "keyConcepts": [
+        "ERP",
+        "CRM",
+        "SCM",
+        "бизнес-процесс (תהליך עסקי)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Облака, платформы и e-commerce",
+      "objectives": [
+        "Объяснить модели SaaS/PaaS/IaaS"
+      ],
+      "keyConcepts": [
+        "облачные вычисления (מחשוב ענן)",
+        "SaaS/PaaS/IaaS",
+        "платформенный бизнес"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Безопасность, приватность и этика",
+      "objectives": [
+        "Назвать основные угрозы и меры защиты"
+      ],
+      "keyConcepts": [
+        "триада CIA",
+        "приватность (פרטיות)",
+        "фишинг"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Bourgeois — Information Systems for Business and Beyond (2019, open textbook)",
+          "url": "https://opentextbook.site/informationsystems2019/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Intro to SQL",
+          "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+          "type": "course",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "18 часов"
+}

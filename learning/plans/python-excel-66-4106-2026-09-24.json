@@ -1,0 +1,247 @@
+{
+  "topic": "66-4106 פיתון ויישומי אקסל בניהול — Python и Excel",
+  "slug": "python-excel-66-4106",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Excel: формулы, ссылки, функции",
+      "objectives": [
+        "Писать формулы с относительными и абсолютными ссылками"
+      ],
+      "keyConcepts": [
+        "относительная и абсолютная ссылка ($A$1)",
+        "SUM, AVERAGE, IF",
+        "форматирование и сортировка"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Excel для менеджмента",
+      "objectives": [
+        "Собирать сводные таблицы и дашборды"
+      ],
+      "keyConcepts": [
+        "XLOOKUP/VLOOKUP",
+        "сводная таблица (טבלת ציר)",
+        "диаграммы",
+        "условное форматирование"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Python: основы",
+      "objectives": [
+        "Писать простые программы с условиями и циклами"
+      ],
+      "keyConcepts": [
+        "переменные и типы (משתנים)",
+        "условия if (תנאי)",
+        "циклы for/while (לולאה)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Python: функции и структуры данных",
+      "objectives": [
+        "Писать функции, работать со списками и словарями"
+      ],
+      "keyConcepts": [
+        "функция (פונקציה)",
+        "список (רשימה)",
+        "словарь (מילון)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "pandas: таблицы в Python",
+      "objectives": [
+        "Читать Excel/CSV, фильтровать, группировать"
+      ],
+      "keyConcepts": [
+        "DataFrame",
+        "read_excel / read_csv",
+        "фильтрация и groupby"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Мини-проект: анализ продаж",
+      "objectives": [
+        "Пройти путь от сырого Excel до выводов для менеджера"
+      ],
+      "keyConcepts": [
+        "очистка данных",
+        "агрегация",
+        "вывод для принятия решения"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "Python Tutorial (official)",
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "pandas — Getting started",
+          "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+          "type": "docs",
+          "free": true
+        },
+        {
+          "title": "Automate the Boring Stuff with Python (гл. про Excel)",
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Microsoft Excel help & learning",
+          "url": "https://support.microsoft.com/en-us/excel",
+          "type": "docs",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "18 часов"
+}

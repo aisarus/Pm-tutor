@@ -1,0 +1,175 @@
+{
+  "topic": "66-4104 סטטיסטיקה תיאורית — Описательная статистика",
+  "slug": "descriptive-stats-66-4104",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Данные и шкалы измерения",
+      "objectives": [
+        "Определять тип переменной и шкалу"
+      ],
+      "keyConcepts": [
+        "переменная (משתנה)",
+        "шкалы: номинальная, порядковая, интервальная, отношений (סולמות מדידה)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Распределения частот и графики",
+      "objectives": [
+        "Строить таблицы частот и гистограммы"
+      ],
+      "keyConcepts": [
+        "таблица частот (טבלת שכיחויות)",
+        "гистограмма (היסטוגרמה)",
+        "относительная и накопленная частота"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Меры центральной тенденции",
+      "objectives": [
+        "Считать среднее, медиану, моду и выбирать подходящую"
+      ],
+      "keyConcepts": [
+        "среднее (ממוצע)",
+        "медиана (חציון)",
+        "мода (שכיח)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Меры разброса",
+      "objectives": [
+        "Считать дисперсию и стандартное отклонение"
+      ],
+      "keyConcepts": [
+        "дисперсия (שונות)",
+        "стандартное отклонение (סטיית תקן)",
+        "межквартильный размах (טווח בין-רבעוני)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Стандартные оценки и нормальное распределение",
+      "objectives": [
+        "Переводить значения в z-оценки",
+        "Пользоваться таблицей нормального распределения"
+      ],
+      "keyConcepts": [
+        "z-оценка (ציון תקן)",
+        "нормальное распределение (התפלגות נורמלית)",
+        "перцентиль (אחוזון)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Связь двух переменных",
+      "objectives": [
+        "Считать и интерпретировать корреляцию",
+        "Строить линию регрессии"
+      ],
+      "keyConcepts": [
+        "корреляция Пирсона (מתאם)",
+        "линия регрессии (קו רגרסיה)",
+        "корреляция ≠ причинность"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introductory Statistics 2e",
+          "url": "https://openstax.org/details/books/introductory-statistics-2e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Statistics and probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "18 часов"
+}

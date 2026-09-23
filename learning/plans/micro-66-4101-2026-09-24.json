@@ -1,0 +1,181 @@
+{
+  "topic": "66-4101 מבוא לכלכלה מיקרו — Микроэкономика",
+  "slug": "micro-66-4101",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Дефицит, выбор и альтернативная стоимость",
+      "objectives": [
+        "Объяснить, почему любой выбор имеет цену",
+        "Построить кривую производственных возможностей"
+      ],
+      "keyConcepts": [
+        "альтернативная стоимость (עלות אלטרנטיבית)",
+        "кривая производственных возможностей (עקומת התמורה)",
+        "сравнительное преимущество (יתרון יחסי)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Спрос, предложение и равновесие",
+      "objectives": [
+        "Отличать сдвиг кривой от движения вдоль неё",
+        "Находить равновесие алгебраически"
+      ],
+      "keyConcepts": [
+        "спрос (ביקוש)",
+        "предложение (היצע)",
+        "равновесие (שיווי משקל)",
+        "сдвиг vs движение вдоль кривой"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Эластичность",
+      "objectives": [
+        "Считать ценовую эластичность",
+        "Связывать эластичность с выручкой"
+      ],
+      "keyConcepts": [
+        "ценовая эластичность спроса (גמישות מחיר)",
+        "эластичность по доходу",
+        "общая выручка (פדיון)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Поведение потребителя",
+      "objectives": [
+        "Объяснить выбор через полезность и бюджет"
+      ],
+      "keyConcepts": [
+        "предельная полезность (תועלת שולית)",
+        "бюджетное ограничение (קו תקציב)",
+        "кривые безразличия (עקומות אדישות)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Издержки и совершенная конкуренция",
+      "objectives": [
+        "Различать виды издержек",
+        "Применять правило MR=MC"
+      ],
+      "keyConcepts": [
+        "предельные издержки (עלות שולית)",
+        "средние издержки",
+        "максимизация прибыли MR=MC",
+        "совершенная конкуренция (תחרות משוכללת)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Монополия и провалы рынка",
+      "objectives": [
+        "Сравнить монополию и конкуренцию",
+        "Объяснить внешние эффекты"
+      ],
+      "keyConcepts": [
+        "монополия (מונופול)",
+        "чистые потери общества (עודף מת)",
+        "внешние эффекты (השפעות חיצוניות)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Microeconomics 3e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-3e",
+          "type": "book",
+          "free": true
+        },
+        {
+          "title": "Khan Academy — Microeconomics",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics",
+          "type": "course",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "18 часов"
+}

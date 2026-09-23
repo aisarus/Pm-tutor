@@ -1,0 +1,88 @@
+{
+  "topics": {
+    "micro-66-4101": {
+      "displayName": "66-4101 מבוא לכלכלה מיקרו — Микроэкономика",
+      "planFile": "plans/micro-66-4101-2026-09-24.json",
+      "progressFile": "progress/micro-66-4101.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 6,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "math-a-66-4102": {
+      "displayName": "66-4102 מתמטיקה א׳ — Математика A",
+      "planFile": "plans/math-a-66-4102-2026-09-24.json",
+      "progressFile": "progress/math-a-66-4102.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 6,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "descriptive-stats-66-4104": {
+      "displayName": "66-4104 סטטיסטיקה תיאורית — Описательная статистика",
+      "planFile": "plans/descriptive-stats-66-4104-2026-09-24.json",
+      "progressFile": "progress/descriptive-stats-66-4104.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 6,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "python-excel-66-4106": {
+      "displayName": "66-4106 פיתון ויישומי אקסל בניהול — Python и Excel",
+      "planFile": "plans/python-excel-66-4106-2026-09-24.json",
+      "progressFile": "progress/python-excel-66-4106.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 6,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "mis-66-4107": {
+      "displayName": "66-4107 ניהול מערכות מידע — Управление информационными системами",
+      "planFile": "plans/mis-66-4107-2026-09-24.json",
+      "progressFile": "progress/mis-66-4107.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 6,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "sociology-66-4108": {
+      "displayName": "66-4108 מבוא לסוציולוגיה — Введение в социологию",
+      "planFile": "plans/sociology-66-4108-2026-09-24.json",
+      "progressFile": "progress/sociology-66-4108.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 5,
+      "quizzesTaken": 0,
+      "overallScore": null
+    },
+    "business-law-66-4109": {
+      "displayName": "66-4109 דיני עסקים — Бизнес-право",
+      "planFile": "plans/business-law-66-4109-2026-09-24.json",
+      "progressFile": "progress/business-law-66-4109.json",
+      "created": "2026-09-24",
+      "lastActivity": "2026-09-24",
+      "level": "beginner",
+      "modulesCompleted": 0,
+      "modulesTotal": 5,
+      "quizzesTaken": 0,
+      "overallScore": null
+    }
+  }
+}

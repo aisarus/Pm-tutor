@@ -1,0 +1,115 @@
+{
+  "topic": "66-4108 מבוא לסוציולוגיה — Введение в социологию",
+  "slug": "sociology-66-4108",
+  "created": "2026-09-24",
+  "level": "beginner",
+  "goal": "Подготовиться к семестру א׳ (старт в октябре после חגים) и пройти курс уверенно; силлабус курса не проверен, модули построены по стандартной программе вводного курса",
+  "depth": "working-knowledge",
+  "timeCommitment": "ongoing",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Социологическое воображение и методы",
+      "objectives": [
+        "Объяснить, чем социология отличается от здравого смысла"
+      ],
+      "keyConcepts": [
+        "социологическое воображение",
+        "методы исследования (שיטות מחקר)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Sociology 3e",
+          "url": "https://openstax.org/details/books/introduction-sociology-3e",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Классические теории",
+      "objectives": [
+        "Сравнить Маркса, Дюркгейма и Вебера"
+      ],
+      "keyConcepts": [
+        "функционализм",
+        "конфликтная теория",
+        "символический интеракционизм",
+        "Маркс, Дюркгейм, Вебер"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Sociology 3e",
+          "url": "https://openstax.org/details/books/introduction-sociology-3e",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Культура и социализация",
+      "objectives": [
+        "Объяснить, как человек усваивает нормы"
+      ],
+      "keyConcepts": [
+        "культура (תרבות)",
+        "нормы и ценности (נורמות וערכים)",
+        "социализация (חיברות)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Sociology 3e",
+          "url": "https://openstax.org/details/books/introduction-sociology-3e",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Группы, организации и бюрократия",
+      "objectives": [
+        "Описать бюрократию по Веберу"
+      ],
+      "keyConcepts": [
+        "первичные и вторичные группы",
+        "бюрократия (ביורוקרטיה)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Sociology 3e",
+          "url": "https://openstax.org/details/books/introduction-sociology-3e",
+          "type": "book",
+          "free": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Стратификация и неравенство",
+      "objectives": [
+        "Объяснить классы и социальную мобильность"
+      ],
+      "keyConcepts": [
+        "стратификация (ריבוד)",
+        "социальная мобильность (ניעות חברתית)"
+      ],
+      "estimatedTime": "3 часа",
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Sociology 3e",
+          "url": "https://openstax.org/details/books/introduction-sociology-3e",
+          "type": "book",
+          "free": true
+        }
+      ]
+    }
+  ],
+  "totalEstimatedTime": "15 часов"
+}
